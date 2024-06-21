@@ -1,9 +1,6 @@
-Sure! Here’s the customized README for your "3D Airplane Portfolio Website" project in markdown format:
-
-```markdown
 # 3D Airplane Portfolio Website
 
-## Welcome! 👋
+### Welcome! 👋
 
 ## Table of contents
 
@@ -83,7 +80,7 @@ npm run preview
 
 ## How to host
 
-Here is a guide: [How to deploy the project](https://github.com/SartHak-0-Sach/2D-game_portfolio-website/blob/main/HOW_TO_DEPLOY.MD)
+Here is how to deploy your project: [How to deploy the project](https://www.youtube.com/watch?v=zRJcQ9PFSHE)
 
 ## My process
 
