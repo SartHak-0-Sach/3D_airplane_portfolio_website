@@ -20,8 +20,8 @@ export function Sky({ isRotating }) {
 
   return (
     <mesh ref={skyRef}>
-      // use the primitive element when you want to directly embed a complex 3D
-      model or scene
+      {/* // use the primitive element when you want to directly embed a complex 3D
+      model or scene */}
       <primitive object={sky.scene} />
     </mesh>
   );
