@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, maruti, nsut } from "../assets/images";
 import {
     car,
     contact,
@@ -111,47 +111,47 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        title: "React Native Developer Intern",
+        company_name: "Maruti Suzuki",
+        icon: maruti,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "June 2024 - July 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Developing and maintaining web applications using React Native and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Worked at developing and debugging more than 3 applications in 2 months of internship",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Research Intern",
+        company_name: "NSUT",
+        icon: nsut,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "July 2024 - September 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Worked as a research intern in the field of healthcare using my knowledge in artificial intelligence and machine learning",
+            "Collaborating with my teammates and mentor to create train high accuracy models for cancer prediction using CT scans",
+            "Calculated tumour cellularity and cell nuclei count using U-Net framework and deep learning.",
+            "Performed image segmentation, classification and masking of high contrast CT scan images proclaimed from PAIP dataset and cleaned using ImageJ software to train our model to achieve higher accuracies",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
+        title: "Web Development intern",
+        company_name: "PFC",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "October 2024 - December 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Participating in code reviews and providing constructive feedback to other developers."
         ],
     },
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
+        title: "ML engineer intern",
+        company_name: "",
         icon: meta,
         iconBg: "#a2d2ff",
         date: "Jan 2023 - Present",
@@ -173,7 +173,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/SartHak-0-Sach',
     },
     {
         name: 'LinkedIn',
@@ -188,7 +188,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://github.com/SartHak-0-Sach/Amazon_WebScraper_application',
     },
     {
         iconUrl: threads,
