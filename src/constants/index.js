@@ -1,4 +1,4 @@
-import { meta, pfc, maruti, nsut } from "../assets/images";
+import { pfc, maruti, nsut } from "../assets/images";
 import {
     car,
     contact,
@@ -151,8 +151,8 @@ export const experiences = [
     },
     {
         title: "ML engineer intern",
-        company_name: "Meta",
-        icon: meta,
+        company_name: "PFC",
+        icon: pfc,
         iconBg: "#a2d2ff",
         date: "December 2024 - Present",
         points: [
