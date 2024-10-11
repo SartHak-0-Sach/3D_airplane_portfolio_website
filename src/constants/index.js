@@ -1,4 +1,4 @@
-import { meta, shopify, maruti, nsut } from "../assets/images";
+import { meta, pfc, maruti, nsut } from "../assets/images";
 import {
     car,
     contact,
@@ -137,24 +137,24 @@ export const experiences = [
         ],
     },
     {
-        title: "Web Development intern",
+        title: "ML engineer intern",
         company_name: "PFC",
-        icon: shopify,
+        icon: pfc,
         iconBg: "#b7e4c7",
         date: "October 2024 - December 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Developing chatbots and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Implementing interactive chatbots and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers."
         ],
     },
     {
         title: "ML engineer intern",
-        company_name: "",
+        company_name: "Meta",
         icon: meta,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "December 2024 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
